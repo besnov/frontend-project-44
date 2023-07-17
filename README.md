@@ -3,3 +3,5 @@
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/besnov/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/besnov/frontend-project-44/actions)
+
+brain-even recording: https://asciinema.org/a/E0bSl2i6m6oeKW2sZD1YDIrmD
